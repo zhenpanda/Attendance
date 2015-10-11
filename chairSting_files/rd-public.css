@@ -1,0 +1,24 @@
+.instructor-bio-pod {
+  border-top: none;
+}
+
+.profile-twitter-handle {
+  padding-bottom: 2rem;
+}
+
+#form-error {
+  color: red; 
+}
+
+.sweeps .reveal-modal.large p {
+  margin-top: 2rem;
+}
+
+#rules-modal {
+  overflow: scroll;
+  height: 900px;
+}
+
+#enter-by h2 {
+  margin-top: 0;
+}
